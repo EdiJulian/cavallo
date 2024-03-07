@@ -1,7 +1,6 @@
 {
   "name": "cavallo",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -28,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EdiJulian/cavallo.git"
+    "url": "https://github.com/EdiJulian/cavallo"
   },
   "author": "",
   "license": "ISC",
